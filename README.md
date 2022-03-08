@@ -1,10 +1,10 @@
 Dependencies to run my App
 
 # Axios
-npm install axios
+### `npm install axios`
 
 # Bootstrap
-npm install react-bootstrap bootstrap@5.1.3
+### `npm install react-bootstrap bootstrap@5.1.3`
 
 Ropto – Front-end Tech Test
 
@@ -13,7 +13,3 @@ Using https://github.com/HackerNews/API create a React user interface that will 
 The finished task can be hosted by the candidate and the source code provided separately or provided with instructions on how to build the page.
 
 Estimated time for completion is 2-3 hours.
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

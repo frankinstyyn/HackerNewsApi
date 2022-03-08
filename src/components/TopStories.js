@@ -1,6 +1,6 @@
 import Card from 'react-bootstrap/Card';
 import React from "react";
-import '../App.css'
+import '../css/App.css'
 
 function HackerNewsPosts({ posts }) {
   if (posts.length === 0) {
