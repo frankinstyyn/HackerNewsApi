@@ -1,10 +1,13 @@
-Dependencies to run my App
+## Instructions & Dependencies to run my App
 
-# Axios
-### `npm install axios`
+To install, complete a clone from the GitHub repo and then install NPM
 
-# Bootstrap
-### `npm install react-bootstrap bootstrap@5.1.3`
+# `npm install`
+
+## Dependencies to Install
+
+## Bootstrap
+# `npm install react-bootstrap bootstrap@5.1.3`
 
 Ropto – Front-end Tech Test
 
